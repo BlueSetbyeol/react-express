@@ -4,12 +4,12 @@ import "./App.css";
 
 const sampleEmployee = {
   name: {
-    first: "Charlie",
-    last: "Thompson",
+    first: "Mello",
+    last: "Mellie",
   },
-  email: "charlie.thompson@example.com",
+  email: "mello.mellie@example.com",
   picture: {
-    medium: "https://randomuser.me/api/portraits/med/men/40.jpg",
+    medium: "https://randomuser.me/api/portraits/women/76.jpg",
   },
 };
 
